@@ -17,3 +17,13 @@ create global variables of arrays (4 types)
 in the first function we have to create is going to get information from the user and then create an object
 second function is you should create a dummy random function 
 third function is going to have to use all those answers guaranteed and possible and create the length = result/ generate randomly 
+All completed. 
+
+
+Final To-Do's: 
+Complete README
+Take screenshot of final generated password
+Create images file w/ screenshot
+Add more comments
+Final Push and submit homework
+Links to submit: github URL 
